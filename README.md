@@ -15,7 +15,7 @@
 * 4 - Análise de correlação
 * 5 - Regressão Linear (simples e múltipla)
 
-## Biblioteca
+## Bibliotecas
 
 * numpy (http://www.numpy.org/)
 * pandas (https://pandas.pydata.org/)
